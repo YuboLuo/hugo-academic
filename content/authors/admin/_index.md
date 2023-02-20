@@ -1,68 +1,68 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yubo Luo
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yubo
+last_name: Luo
 
 # Status emoji
 status:
-  icon: ☕️
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of North Carolina at Chapel Hill
+    url: https://www.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include on-device machine learning, edge computing, embedded systems and IoT.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - On-device Machine Learning
+  - Edge Computing
+  - Embedded Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Ph.D. in Computer Science
+      institution: University of North Carolina at Chapel Hill
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MEng in  Electronic and Communications Engineering
+      institution: Tsinghua University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Communications Engineering
+      institution: Central South University
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=FSuurZ0AAAAJ&hl=en
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -74,11 +74,14 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yubo@cs.unc.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student in the Department of Computer Science, UNC-Chapel Hill, working with Prof. Shahriar Nirjon. My current research interest lies in the intersection of maching learning and embedded systems. My projects are mostly related to leveraging machine learning algorithms to improve system performance, e.g., energy consumption and time latency, especially on resource-constrained systems.
+{style="text-align: justify;"}
+
+During my PhD Journey, I have finished three internships at Meta, Amazon and Nokia Bell Labs, respectively. Previously, I received my Master's degree from Tsinghua University in 2017 and Bachelor's degree from Central South University in 2014. 
 {style="text-align: justify;"}
