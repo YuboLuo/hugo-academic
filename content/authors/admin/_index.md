@@ -60,9 +60,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=FSuurZ0AAAAJ&hl=en
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/yuboluo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,7 +80,7 @@ email: 'yubo@cs.unc.edu'
 highlight_name: true
 ---
 
-I am a Ph.D. student in the Department of Computer Science, UNC-Chapel Hill, working with Prof. Shahriar Nirjon. My current research interest lies in the intersection of maching learning and embedded systems. My projects are mostly related to leveraging machine learning algorithms to improve system performance, e.g., energy consumption and time latency, especially on resource-constrained systems.
+I am a final year Ph.D. student (`currently in the job market`) in the Department of Computer Science, UNC-Chapel Hill, working with Prof. Shahriar Nirjon. My current research interest lies in the intersection of machine learning and embedded systems. My projects are mostly related to leveraging machine learning algorithms to improve system performance, e.g., energy consumption and time latency, especially on resource-constrained systems.
 {style="text-align: justify;"}
 
 During my PhD Journey, I have finished three internships at Meta, Amazon and Nokia Bell Labs, respectively. Previously, I received my Master's degree from Tsinghua University in 2017 and Bachelor's degree from Central South University in 2014. 

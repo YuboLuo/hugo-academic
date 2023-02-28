@@ -59,8 +59,9 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
   - block: experience
+    id: experiences
     content:
-      title: Experiences
+      title: Internship Experiences
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -221,7 +222,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Selected Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).

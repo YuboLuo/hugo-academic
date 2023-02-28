@@ -1,5 +1,5 @@
 ---
-title: "Exploiting Task Affinity for Efficient Multitask Learning on Low-Resource Systems"
+title: "Efficient Multitask Learning on Resource-Constrained Systems"
 authors:
 - admin
 - Le Zhang
@@ -28,12 +28,12 @@ publication_short: ""
 abstract: To be appear.
 
 # Summary. An optional shortened abstract.
-summary: (SenSys 2023 - In submissoin) Proceedings of the 21th Conference on Embedded Networked Sensor Systems
+summary: (SenSys 2023 - In preparation) Proceedings of the 21th Conference on Embedded Networked Sensor Systems
  
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
